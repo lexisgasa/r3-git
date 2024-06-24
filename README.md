@@ -1,3 +1,5 @@
-Jugando con Git
+Lista de tareas
 
-Este repositorio están dedicados a trastear un poco con Git y GitHub.
+- Acabar el ejercicio de la fase 1
+- Ponerme con la fase 2 lo antes posible
+- Tomar apuntes
